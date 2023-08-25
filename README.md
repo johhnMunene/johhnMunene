@@ -1,4 +1,6 @@
-### Hi there 👋# 💫 About Me:
+### Hi there 👋
+
+# 💫 About Me:
 I am currently working towards becoming a penetration tester.<br>I am seeking opportunities to collaborate on software development ideas.<br>I am seeking ideas on how to become the best software developer or penetration tester.<br>Ask me any web developing related questions<br>Fun fact -I'm both chatty and enjoyable.<br>
 
 
